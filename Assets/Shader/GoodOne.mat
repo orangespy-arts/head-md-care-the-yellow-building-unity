@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GoodOne
+  m_Shader: {fileID: 4800000, guid: 13e0a7d4c9bda498592dc0bb2c8a53a8, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GrainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DiffuseWrap: 0.3
+    - _GrainScale: 2
+    - _GrainStrength: 0.07
+    - _LightInfluence: 0.619
+    - _OutlineWidth: 0.004
+    - _RimSharpness: 3
+    - _RimStrength: 0.25
+    - _ShadowSoftness: 0.08
+    - _ShadowStrength: 0.35
+    - _ShadowThreshold: 0
+    - _WatercolorScale: 2.5
+    - _WatercolorSpeed: 0.25
+    - _WatercolorStrength: 0.35
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColor: {r: 0.17233731, g: 0.17007832, b: 0.24528301, a: 1}
+    - _RimColor: {r: 1, g: 0.95, b: 0.88, a: 1}
+    - _ShadowColor: {r: 0.75, g: 0.78, b: 0.85, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
